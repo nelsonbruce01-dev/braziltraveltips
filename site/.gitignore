@@ -1,0 +1,8 @@
+﻿.wrangler/
+.wrangler-config/
+.npm-cache/
+node_modules/
+.env
+*.log
+*.zip
+
