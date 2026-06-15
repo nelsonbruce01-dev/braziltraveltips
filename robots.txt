@@ -1,0 +1,34 @@
+﻿User-agent: *
+Allow: /
+
+Disallow: /relatorio_seo_escort_2026.html
+Disallow: /visual-proposal-braziltraveltips.html
+Disallow: /design-system-braziltraveltips.html
+
+Sitemap: https://braziltraveltips.com/sitemap.xml
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+
