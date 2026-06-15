@@ -1,4 +1,4 @@
-﻿:root {
+:root {
   --paper: #fffaf0;
   --paper-soft: #f6efd9;
   --white: #ffffff;
@@ -271,5 +271,4 @@ footer {
     grid-template-columns: 1fr;
   }
 }
-
 

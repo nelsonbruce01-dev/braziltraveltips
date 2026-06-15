@@ -1,4 +1,4 @@
-﻿# Brazil Travel Tips
+# Brazil Travel Tips
 
 > Premium Brazil travel guidance for international visitors planning trips to Rio de Janeiro, Sao Paulo and nearby destinations, with practical advice on safety, hotels, culture, nightlife, business travel and discreet premium services.
 
@@ -231,5 +231,4 @@ Brazil Travel Tips pages should be reviewed regularly for accuracy, especially p
 - multilingual search intent.
 
 Last planned editorial scope: 2026.
-
 

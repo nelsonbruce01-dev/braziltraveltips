@@ -1,4 +1,4 @@
-﻿# Brazil Travel Tips - Staging Package
+# Brazil Travel Tips - Staging Package
 
 Data: 2026-06-14
 
@@ -19,7 +19,7 @@ Esta versao serve para:
 
 ## Arquivos Incluidos
 
-PÃ¡ginas publicaveis em staging:
+Páginas publicaveis em staging:
 
 - `index.html`
 - `homepage-braziltraveltips-hybrid.html`
@@ -45,7 +45,7 @@ Arquivos tecnicos:
 - `sitemap.xml`
 - `llms.txt`
 - `trust-pages-braziltraveltips.css`
-- `https://orange-mode-62eb.nelsonbruce01.workers.dev/assets/images/`
+- `assets/images/`
 
 Arquivos de validacao:
 
@@ -115,4 +115,3 @@ Subir primeiro em URL temporaria privada ou semi-privada. Depois de validar mobi
 - testar robots;
 - rodar Lighthouse/Core Web Vitals;
 - revisar se nenhuma pagina interna de planejamento ficou acessivel.
-

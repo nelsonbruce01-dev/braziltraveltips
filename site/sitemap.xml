@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
@@ -74,7 +74,7 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://braziltraveltips.com/ru/rio-de-janeiro/nightlife/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://braziltraveltips.com/rio-de-janeiro/nightlife/"/>
     <image:image>
-      <image:loc>https://braziltraveltips.com/https://orange-mode-62eb.nelsonbruce01.workers.dev/assets/images/rio-de-janeiro-nightlife-for-international-visitors.webp</image:loc>
+      <image:loc>https://braziltraveltips.com/assets/images/rio-de-janeiro-nightlife-for-international-visitors.webp</image:loc>
       <image:caption>Rio de Janeiro nightlife for international visitors planning premium evenings in Brazil.</image:caption>
     </image:image>
   </url>
@@ -132,7 +132,7 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://braziltraveltips.com/ru/sao-paulo/business-travel/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://braziltraveltips.com/sao-paulo/business-travel/"/>
     <image:image>
-      <image:loc>https://braziltraveltips.com/https://orange-mode-62eb.nelsonbruce01.workers.dev/assets/images/sao-paulo-business-travel-for-international-visitors.webp</image:loc>
+      <image:loc>https://braziltraveltips.com/assets/images/sao-paulo-business-travel-for-international-visitors.webp</image:loc>
       <image:caption>Sao Paulo business travel for international visitors planning hotels, meetings and refined evenings.</image:caption>
     </image:image>
   </url>
@@ -208,7 +208,7 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://braziltraveltips.com/ru/premium-services/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://braziltraveltips.com/premium-services/"/>
     <image:image>
-      <image:loc>https://braziltraveltips.com/https://orange-mode-62eb.nelsonbruce01.workers.dev/assets/images/premium-services-for-international-visitors-brazil.webp</image:loc>
+      <image:loc>https://braziltraveltips.com/assets/images/premium-services-for-international-visitors-brazil.webp</image:loc>
       <image:caption>Premium services for international visitors planning discreet private evenings in Brazil.</image:caption>
     </image:image>
   </url>
@@ -243,4 +243,3 @@
     <priority>0.4</priority>
   </url>
 </urlset>
-
